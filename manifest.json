@@ -1,0 +1,20 @@
+{
+  "short_name": "LifePlan",
+  "name": "Life Planner Pro",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4305/4305432.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4305/4305432.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ecfdf5",
+  "background_color": "#ffffff"
+}
